@@ -3,7 +3,6 @@
 
 Coding is interesting 
 
-```python
-s = "Python syntax highlighting"
-print s
+```python 
+print('Hello World!')
 ```
